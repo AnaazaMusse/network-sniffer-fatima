@@ -1,2 +1,2 @@
-# network-sniffer-codeAlphaa
-Basic python-based network sniffer for CodeAlpha cybersecurity internship (Task1).
+# network-sniffer-fatima
+python-based network pocket sniffer for codeAlpha internship project.
